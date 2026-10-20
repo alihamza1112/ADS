@@ -1,0 +1,11 @@
+feature
+feature_ego_brake
+feature_ego_speed
+feature_scenarioTrafficLightDemand
+feature_totalNPCs
+feature_isPedestrianScenario
+feature_totalRoadUsers
+feature_obstaclesMinimumDistance
+feature_speedObstacleWithMinimumDistance
+feature_volumeObstacleWithMinimumDistance
+feature_obstaclesMaximumSpeed

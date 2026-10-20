@@ -1,0 +1,10 @@
+feature
+feature_obstaclesMinimumDistance
+feature_ObstaclesMinimumVelocity
+feature_volumeObstacleWithMinimumDistance
+feature_scenarioTrafficLight
+feature_ego_acceleration
+feature_isPedestrianScenario
+feature_ego_steeringTarget
+feature_ego_velocityx
+feature_ego_accelerationy
